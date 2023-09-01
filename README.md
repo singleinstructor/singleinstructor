@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @singleinstructor
+- 👋 Hi, I’m Balu Thomas 
 - 👀 I’m interested in Azure Devops Engineering
 - 🌱 I’m currently learning  Mastering in Azure Devops 
 - 💞️ I’m looking to collaborate on Blazor Server App 
