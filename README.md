@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @singleinstructor
 - 👀 I’m interested in Azure Devops Engineering
 - 🌱 I’m currently learning  Azure Devops 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Blazor Server App 
 - 📫 How to reach me 9037376960
 
 <!---
